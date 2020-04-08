@@ -15,3 +15,12 @@ Some of the features and services used in the app are listed as:
 - WebView
 - AsyncTask
 - JSON
+
+
+
+# Description about files
+To see how the application works, the 'apk' file must be downloaded and installed 
+on a phone which supports android.
+To see how the application is developed the folder contains the codes. Codes are commented
+for better understanding. 
+note that this project is part of the Monash university project and is licensed. 
