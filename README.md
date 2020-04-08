@@ -24,3 +24,8 @@ on a phone which supports android.
 To see how the application is developed the folder contains the codes. Codes are commented
 for better understanding. 
 note that this project is part of the Monash university project and is licensed. 
+
+
+
+## Plagiarism Notice
+The code in this repository is not endorsed by Monash University. Please note that copying the code for unit assessments without referencing will result in a breach in Academic Integrity Policy and that the author @AlirezaAlizadehQ will not be held responsible for these breaches. For more information please visit https://www.monash.edu/students/academic/policies/academic-integrity
